@@ -1,0 +1,17 @@
+.container-center {
+    font-size: x-large;
+  
+    width: 90%;
+    margin: auto;
+  }
+  
+  body{
+    font-style:justify;
+    font-size: large;
+    background-color: bisque;
+  }
+
+.containercontainer-center {
+  padding: 1rem;
+
+}

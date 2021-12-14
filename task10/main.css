@@ -5,7 +5,7 @@
 }
 
 :root {
-  --primary-color: #7c3aed;
+  --primary-color: black;
 }
 
 body {
@@ -13,7 +13,6 @@ body {
   min-width: 100vw;
 }
 
-/* Container */
 .container {
   margin: 4rem auto 7rem;
   text-align: center;
@@ -63,8 +62,6 @@ body {
   font-size: larger;
   margin: 1rem 0 0;
 }
-
-/* Table */
 .change-table {
   width: 30%;
   text-align: justify;
